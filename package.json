@@ -48,7 +48,7 @@
     "eslint-config-typescript": "^3.0.0",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "14.6.0",
     "graphql-iso-date": "3.6.1",
     "graphql-shield": "5.7.3",
